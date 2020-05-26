@@ -1,0 +1,18 @@
+{
+  "name": "run-daily",
+  "version": "0.0.0",
+  "description": "Run some functions at specific times each day",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mafintosh/run-daily.git"
+  },
+  "author": "Mathias Buus (@mafintosh)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mafintosh/run-daily/issues"
+  },
+  "homepage": "https://github.com/mafintosh/run-daily"
+}
