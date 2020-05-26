@@ -1,6 +1,6 @@
 {
   "name": "run-daily",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Run some functions at specific times each day",
   "main": "index.js",
   "dependencies": {},
